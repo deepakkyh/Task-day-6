@@ -1,0 +1,101 @@
+1Q
+// it should be-->
+var new_string = "";
+ 
+for (var i = 0; i < 11; i++)
+ new_string += numsArr[i].toString() 
+
+
+
+2Q
+// it should be-->
+var new_string = "";
+ 
+for (var i = 0; i < 11; i++)
+ new_string += numsArr[i] + ","
+
+console.log(new_string.slice(0, new_string.length - 1));
+
+
+3Q
+// it should be-->
+var new_string = "";
+ 
+for (var i = 11; i > 0; i--)
+ new_string += i + " "
+
+console.log(new_string.slice(0, new_string.length - 1));
+
+
+
+4Q
+// it should be-->
+
+ numsArr[i] = "even"
+ 
+
+5Q
+// it should be-->
+ if(i %2 == 0 )
+ 
+ numsArr[i] = "even"
+ 
+
+
+6Q
+// it should be-->
+var sum = 0;
+ for (var i = 0; i <=10; i++) 
+
+
+
+7Q
+// it should be-->
+ if(numsArr[i]%2==0)
+
+
+
+8Q
+// it should be-->
+ if(numsArr[i]%2==0)
+ 
+ 
+9Q
+// it should be-->
+var numsArr = [[1, 2, 3, 4, 5],[ 6, 7, 8, 9, 10, 11]];
+for (var i = 0; i < numsArr.length; i++) 
+
+
+
+10Q
+// it should be-->
+var str_all="";
+ for(var j = 0 ; j < inner_array.length;j++ )
+
+
+
+11Q
+// it should be-->
+for(var j = 0 ; j < inner_array.length;j++ )
+     if(j %2 == 0 )
+      
+       inner_array[j] = "even"
+       
+
+
+12Q
+// it should be-->
+for (var i = numsArr.length-1; i >= 0 ; i--) 
+for(var j = inner_array.length-1; j >= 0 ;j-- )
+  str_all +=inner_array[j] + " "
+
+console.log(str_all.slice(0, str_all.length - 1));
+
+
+
+13Q
+// it should be-->
+  if(inner_array[j]%2!=0)
+ 
+sum_odd += inner_array[j]
+sum_even += inner_array[j]

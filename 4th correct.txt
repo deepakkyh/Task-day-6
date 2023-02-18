@@ -1,0 +1,106 @@
+1Q
+// it should be-->
+
+
+ let f,s,t; // comment the  line in Question
+
+2Q
+// it should be-->
+
+
+console.log(add(n.toString()));
+
+let sum = 0;
+
+sum+= +n[i]
+
+
+3Q
+// it should be-->
+
+
+for (var i = 0; i < arr.length; i++){
+
+
+4Q
+// it should be-->
+
+
+var arr = ["guvi", "geek", "zen", "fullstack"];
+for (var i = 0; i < arro.length; i++) {
+ano(arr);
+
+
+
+5Q
+// it should be-->
+for(let i=2;i<num;i++){
+ 
+ return false;
+ return true;
+
+6Q
+// it should be-->
+
+const add = (a, b) => 
+ a + b
+const sum = num.reduce((acc, cur) => add(acc, cur), 0)
+
+7Q
+// it should be-->
+
+
+ arr = {}; // comment the line in the Question
+ 
+
+8Q
+// it should be-->
+
+var arr = ["guvi", "geek", "zen", "fullstack"];
+ console.log(arr[i][0].toUpperCase() + arr[i].substr(1));
+
+9Q
+// it should be-->
+
+if (arr[i] % 2 !== 0) {
+ 
+10Q
+// it should be-->
+
+
+
+
+
+str1 = str.split("").reverse().join("");
+ ("abcd")
+
+11Q
+// it should be-->
+
+newArr = [];
+for(var i=0; i < arr.length; i++){
+
+12Q
+// it should be-->
+
+
+ console.log(final) //add the line .
+
+13Q
+// it should be-->
+
+
+
+
+return a;}, 0);
+
+
+
+14Q
+// it should be-->
+
+
+for(i=0;i<a.length-1;i++){ // var l='';
+ var l=’’; // for(i=0;i<a.length-1;i++){
+ 
+aa("1234");
