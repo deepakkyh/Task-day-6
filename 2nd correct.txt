@@ -1,0 +1,113 @@
+part-1
+
+Note- It will change forevry question
+( 'I’m JavaScript!')  /  ( "I’m JavaScript!")
+
+
+
+1Q
+//it should be in single quotes-->
+( 'I’m JavaScript!')  /  ( "I’m JavaScript!")
+
+
+
+
+2Q
+// it should be-->
+<script src="script.js"></script>
+alert('I’m invoked!');
+
+
+3Q
+//it should be-->
+<script src="script.js"></script>
+it is a operational mathematical fn. which comes as alert.
+
+4Q
+//it should be-->
+
+admin = fname+" "+lname;
+
+
+5Q
+//it should be-->
+let lname = "geek";
+let name = fname+" "+lname;
+
+
+6Q
+//it should be-->
+let a = +prompt("First number?");
+let b = +prompt("Second number?"); 
+
+
+7Q
+//it should be-->
+(same as previous question)
+
+8Q
+//it should be-->
+As we gave condition it will show "code is Blasted"
+if we change   >   with  <  it will show "Diffused"
+ as per depend on condition
+
+9Q
+//it should be-->
+let a = !prompt("Enter a number?");
+10Q
+//it should be-->
+.....
+
+11Q
+//it should be-->
+let message = (login == 'Employee') ?  "Welcome Employee":
+
+12Q
+//it should be-->
+let => message = "welcome boss";
+
+13Q
+//it should be-->
+if (null || !lock || undefined )
+
+14Q
+//it should be-->
+let lock = !2;
+
+15Q
+//it should be-->
+i console.log( i-- );
+
+16Q
+//it should be-->
+let n = 10
+for(let i = 1; i <= n; i++) {
+    console.log(i)
+}
+
+16Q
+//it should be-->
+change  num += 1 to num += 2
+
+
+17Q
+//it should be-->
+console.log(`Wrapped ${gifts[i]}
+
+18Q
+//it should be-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
